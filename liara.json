@@ -9,5 +9,11 @@
             "mountTo": "media"
         }
     ],
+
+    "platform": "django",
     "app": "mydjango-blog"
+        
+
+
+
 }
